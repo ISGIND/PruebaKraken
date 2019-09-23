@@ -1,1 +1,2 @@
 Esta es una prueba del primer commit de kraken 
+Estos son los cambios para un segundo commit sobre el mismo archivo
